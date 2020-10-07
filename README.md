@@ -18,7 +18,14 @@ $ docker-compose down --volumes
 
 
 
-Para ingressar só precisa ingressar em  http://localhosta   e iniciar a instalação do wordpress
+Para ingressar só precisa ingressar em  http://localhost  e iniciar a instalação do wordpress
 
 
 Pronto já tem instalado o wordpress em um container pode instalar multiplos wordpress no seu sistema so precisa mudar os portos do phpadmin, mysql e php. 
+
+# Instalação copia portal covid
+Link: https://drive.google.com/drive/folders/1Ke0H4h0AhSywsywrZs9e0izCOTmfACxx?usp=sharing
+baixar os arquiva pasta onde foi executado o comando do docker-compose  depois pode apagar todos os arquivos gerados previemante do wordpress.   ingressar no localhost/installer.php
+
+seguir os passo deve ingressar o host como db senha e demais wordpress segundo os arquivo do docker-composer.yml se as cofiguraçoes estam bem o sistema se instalara de maneria eficiente.   Importante.  debe ingressar na area de adminstração usando a senha e usuario dado para o Grupo E se não lembra falar como o Scrum mster
+
